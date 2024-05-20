@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>心得 on 測試部落格</title>
+    <link>https://skarmathd.github.io/categories/%E5%BF%83%E5%BE%97/</link>
+    <description>Recent content in 心得 on 測試部落格</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Thu, 29 Oct 2020 10:07:47 +0800</lastBuildDate>
+    <atom:link href="https://skarmathd.github.io/categories/%E5%BF%83%E5%BE%97/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>第一篇文章</title>
+      <link>https://skarmathd.github.io/blog/test/</link>
+      <pubDate>Thu, 29 Oct 2020 10:07:47 +0800</pubDate>
+      <guid>https://skarmathd.github.io/blog/test/</guid>
+      <description>Hello world&#xA;我是小韓你&#xA;一級標題 二級標題 六級標題 我是小韓你，我喜歡分享&#xA;小韓你 你好 無序序列 內縮無序序列 嗨嗨</description>
+    </item>
+  </channel>
+</rss>
